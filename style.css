@@ -1,0 +1,4 @@
+body { font-family: 'Arial', sans-serif; background: #1a1a2e; color: white; text-align: center; }
+#game-container { background: #16213e; padding: 2rem; border-radius: 15px; margin-top: 50px; display: inline-block; }
+button { background: #e94560; color: white; border: none; padding: 10px 20px; margin: 10px; cursor: pointer; border-radius: 5px; }
+button:hover { background: #0f3460; }
